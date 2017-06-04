@@ -1,6 +1,7 @@
 # Square of rectangles
 
-The `rectangles.py` script solves a physical puzzle given to my friend John Bohannon.
+The [`rectangles.py`](https://github.com/tylerneylon/puzzles/blob/master/square_of_rectangles/rectangles.py)
+script solves a physical puzzle given to my friend John Bohannon.
 I'm not sure of the original author of the puzzle.
 It consists of 12 rectangles, each marked clearly with a pair of integer dimensions.
 The goal is to combine all the pieces into a gapless partition of a larger
